@@ -1,0 +1,259 @@
+.top_section{
+    width: auto;
+    height: auto;
+    /* background-color: black; */
+    font-family:'Source Sans Pro', sans-serif;
+}
+.middle_section{
+    width: auto;
+    height: 300 px;
+    text-align: center;
+    font-family:'Source Sans Pro', sans-serif;
+    font-size: 70;
+}
+.button{
+    width: 150px;
+    height: 45px;
+}
+.alt_link{
+    width: auto;
+    height: 25px;
+   display: inline-block;
+}
+.code_image{
+    border-top: 10px;
+    margin: 20 20 20 20;
+    padding: 25 50 25 50;
+}
+.certified{
+    background-color: pink;
+    border-color: pink;
+    border-radius: 40px;
+    width: 30%;
+    border-width: 0;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    
+}
+.learn{
+    background-color: black;
+    color: white;
+    border-radius: 25px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-width: 0;
+    margin-top: 20px;
+    width: 185px;
+    
+}
+.dp{
+    display: inline-block;
+}
+.intro{
+    text-align: center;
+    background-color: #282A35;
+    color: white;
+    padding: 150px;
+    font-size: 70;
+    font-weight: 700;
+    line-height: 10px;
+}
+.l_code{
+    font-family:'Source Sans Pro', sans-serif;
+    font-size: 60px;
+    font-weight: 700;
+}
+.search_img{
+    width: 30px;
+    height: 30px;
+    background-color: rgb(47, 247, 180);
+    padding: 5px;
+    
+}
+.search_bar_K{
+    
+    
+    
+}
+.search_tag{
+    margin: auto;
+    max-width: 500px;
+}
+.html_block{
+    
+    padding-top: 100px;
+    padding-bottom: 100px;
+    text-indent: 10px;
+    background-color: #D9EEE1;
+
+}
+.css_block{
+    
+    padding-top: 100px;
+    padding-bottom: 100px;
+    background-color: #FFF4A3;
+}
+.javascript_block{
+    color: white;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    background-color: #282A35;
+    /* border-top: 30px;
+    border-bottom: 30px; */
+}
+.baslik{
+    font-weight: 700;
+    font-size: 70px;
+}
+.l_button{
+    background-color: #04AA6D;
+    color: white;
+    border-radius: 40px;
+    border-color: #04AA6D;
+    width: 30%;
+    border-width: 0;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+.t_button{
+    background-color: #FFF4A3;
+    border-radius: 40px;
+    border-color: #FFF4A3;
+    width: 30%;
+    border-width: 0;
+    
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+.r_button{
+    background-color: #282A35;
+    border-radius: 40px;
+    border-color: #282A35;
+    color: white;
+    width: 30%;
+    border-width: 0;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}.js_button{
+    background-color: white;
+    color: black;
+}
+
+.all_language{
+    background-color: #282A35;
+    font-size: 70;
+    font-weight: 700;
+    font-family: 'Source Sans Pro' sans-serif;
+    
+}
+.lan_block
+{
+    margin: 20px;
+    padding: 50px;
+    border-radius: 5px;
+
+}
+.php_block{
+    background-color: #FFC0C7;
+    padding: 40px;
+    
+}
+
+.jQuery_block{
+    background-color: #FFF4A3;
+}
+.cpp_block{
+    background-color: #D9EEE1;
+}
+.java_block{
+    background-color:#F3ECEA;
+}
+.w3_css_block{
+    background-color: #96D4D4;
+}
+.bootstrap_block{
+    background-color: #E7E9EB;
+}
+h2{
+    font-size: 70;
+    font-weight: 700;
+}
+.l_block{
+    border-radius: 10px;
+    margin: 20px;
+    margin-bottom: auto;
+    padding: 40px;
+    display: inline-block;
+    width: 17em;
+}
+/* .c_block{
+    background-color: #FFC0C7;
+    display: block;
+    width: 96%;
+}
+.cSharp_block{
+    background-color: #FFF4A3;
+    display: block;
+    width: 96%;
+} */
+.long_block{
+    display: block;
+    width: 96%;
+}
+.bottom_section{
+    margin-bottom: 0;
+    margin-top: 0;
+    background-color: #282A35;
+    text-align: center;
+}
+.qes_block{
+    display: inline-block;
+    padding: 10px;
+    border-radius: 10px;
+    width: 7em;
+    border-left: 5px;
+    margin-top: 50px;
+    margin-bottom: 25px;
+    
+}
+.cusn_block{
+    margin: 10px;
+    border-width: 0;
+    border-radius: 5px;
+    width: 35%;
+    padding: 10px;
+}
+
+.icon_blocks_1{
+    width: 96px;
+    height: 96px;
+    padding: 32px;
+    
+    
+    background-color:#282A35
+}
+.icon_blocks_1:hover{
+    background-color: white;
+    width: 96px;
+    height: 96px; 
+    
+    padding: 32px;
+    border-radius: 5px;
+}
+.end_metin{
+    color: white;
+    padding: 20px;
+    margin: 20px;
+    
+}
+.thumbs_up{
+    width: 32px;
+    height: 32px;
+    margin-bottom: 40px;
+    
+}
+.intro_text{
+    padding: 25px;
+    font-size: 23px;
+    margin-top: 30px;
+}
